@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dev Sharma</h1>
 <h3 align="center">A passionate frontend developer| UX Designer | Agency Owner from India</h3>
+<h5 align="center">I'm a passionate and ambitious individual currently pursuing a B.Tech in Computer Science with a specialization in AI & ML. My expertise extends to UI/UX design, where I skillfully combine design principles with a focus on user experience. As a budding UX designer, I'm always excited to embark on new projects and contribute my skills to create exceptional user experiences. Let's connect and explore the endless possibilities together! <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevsharma12" alt="thedevsharma12" /></a> </p>
+With a dynamic fusion of SEO expertise, innovative R&D strategies, e-commerce mastery on Shopify and WordPress, financial acumen, and a flair for Python and web development, I leverage the art of prompt engineering to deliver unparalleled solutions and elevate your online presence to new heights.</h5>
 
-<p align="left"> <a href="https://twitter.com/thedev_sharma12" target="blank"><img src="https://img.shields.io/twitter/follow/thedev_sharma12?logo=twitter&style=for-the-badge" alt="thedev_sharma12" /></a> </p>
+
 
 - 🔭 I’m currently working on [recell.in](recell.in)
 
